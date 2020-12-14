@@ -1,5 +1,4 @@
 com.nominas.domain
-com.nominas.exceptions
 com.nominas.repository
 com.nominas.service
 com.nominas.springjpa
